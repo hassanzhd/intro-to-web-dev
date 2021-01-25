@@ -3,9 +3,7 @@ I will be hosting an event on 'Introduction to Web Development' on Sunday, 24th 
 
 The event will be hosted on Microsoft Teams, and all of you can attend by using the link provided below. Please provide your Name & Email address in the Google sheet linked below so that we can send you updates about the event through emails.
 
-**Event meeting link:** xxxx
-**Google sheet link:** xxxx
-
+**Event recording link: (make sure to have a microsoft account)** https://web.microsoftstream.com/video/8d7a013e-8577-46dd-aac0-01de006f619d
 #### Learning Objectives:
 1. What is Web Development and how to approach it?
 2. Frontend, Backend and Full Stack development
