@@ -1,0 +1,11 @@
+h1:nth-child(odd) {
+  color: blue;
+}
+
+h1:nth-child(even) {
+  color: green;
+}
+
+.important-text {
+  color: red;
+}

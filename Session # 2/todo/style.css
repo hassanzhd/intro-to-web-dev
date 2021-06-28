@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: darkslategray;
+  font-family: "Montserrat";
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  width: 100vw;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-todo-form input[type="text"] {
+  height: 50px;
+  width: 80%;
+  background-color: #ffffff;
+  margin: 10px;
+  padding: 0 20px;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+.add-todo-form input[type="text"]:focus {
+  outline: none;
+}
+
+.add-todo-form .btn {
+  height: 50px;
+  width: 20%;
+  background-color: rgb(20, 20, 20);
+  margin: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-weight: bold;
+}
+
+.todo {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.todo p {
+  background-color: transparent;
+}
+
+.todo .delete-btn {
+  height: 50px;
+  background-color: red;
+  margin-top: 10px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-weight: bold;
+}
