@@ -17,6 +17,11 @@ I will be hosting an event on 'Introduction to Dynamic Web Development and DOM' 
       - querySelectorAll()
       - getElementByClassName() (cannot apply array methods)
       - addEventListener()
+      - createElement
+      - createAttribute
+      - setAttributeNode
+      - appendChild
+      - append
 
    2. Attributes
 
