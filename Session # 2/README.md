@@ -2,7 +2,7 @@
 
 I will be hosting an event on 'Introduction to Dynamic Web Development and DOM' on Monday, 28 June 2021 from 7:00 PM onwards.
 
-**Event recording link:** [ to be provided after upload ]
+**Event recording link:** https://youtu.be/6She6O3-5rw
 
 #### Learning Objectives:
 
